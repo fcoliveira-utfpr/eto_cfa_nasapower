@@ -1,0 +1,10 @@
+modelo,cenario,treino_s,inferencia_s
+LGBM,S1,36.59,1.58
+LGBM,S2,6.43,0.06
+LGBM,S3,6.01,0.1
+MLP,S1,66.42,0.04
+MLP,S2,35.95,0.03
+MLP,S3,16.94,0.03
+RF,S1,13.93,0.38
+RF,S2,10.95,0.3
+RF,S3,11.59,0.29

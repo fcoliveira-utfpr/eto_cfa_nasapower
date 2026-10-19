@@ -1,0 +1,11 @@
+agrometeorologiapy==0.3.0
+earthengine-api==1.7.43
+geopandas==1.1.0
+lightgbm==4.7.0
+matplotlib==3.11.0
+numpy==2.4.6
+pandas==3.0.3
+pyarrow==24.0.0
+requests==2.34.2
+scikit-learn==1.9.0
+scipy==1.18.0
